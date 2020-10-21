@@ -1,10 +1,10 @@
 <?php
 
-namespace ArtisanCloud\LaravelVotable\Contracts;
+namespace ArtisanCloud\Votable\Contracts;
 
 /**
  * Interface VotableServiceContract
- * @package ArtisanCloud\LaravelVotable\Contracts
+ * @package ArtisanCloud\Votable\Contracts
  */
 interface VotableServiceContract
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace ArtisanCloud\LaravelVotable\Providers;
+namespace ArtisanCloud\Votable\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use ArtisanCloud\LaravelVotable\Contracts\VotableServiceContract;
-use ArtisanCloud\LaravelVotable\VotableService;
+use ArtisanCloud\Votable\Contracts\VotableServiceContract;
+use ArtisanCloud\Votable\VotableService;
 
 /**
  * Class VotableServiceProvider

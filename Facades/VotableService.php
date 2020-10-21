@@ -1,6 +1,6 @@
 <?php
 
-namespace ArtisanCloud\LaravelVotable\Facades;
+namespace ArtisanCloud\Votable\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

@@ -2,7 +2,7 @@
 
 namespace ArtisanCloud\LaravelVotable;
 
-use ArtisanCloud\LaravelVotable\Contracts\VotableServiceContract;
+use ArtisanCloud\Votable\Contracts\VotableServiceContract;
 
 /**
  * Class VotableService
